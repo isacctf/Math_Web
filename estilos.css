@@ -1,0 +1,100 @@
+html {
+  background-color: rgba(170, 255, 222, .25);
+}
+
+body {
+  width: 70%;
+  margin: auto;
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-bottom: 50px;
+  background-color: rgba(255, 255, 255, .85);
+}
+
+.body1 {
+  background-color: rgba(170, 255, 222, .05);
+}
+
+main {
+  margin: auto;
+  margin-top: auto;
+  font-size: 30px;
+}
+
+.seila {
+  background-color: white;
+  border: 0.5px solid gray;
+}
+
+.quadrado h1 {
+  font-family: 'Patrick Hand', cursive;
+}
+
+button {
+  font-size: 30px;
+  margin-left: 50px;
+}
+
+#botao {
+  position: absolute;
+  right: 450px;
+  bottom: 40px;
+}
+
+#botão {
+  position: absolute;
+  right: 450px;
+  bottom: -45px;
+}
+
+p, h1, h2, li, a, button {
+    font-family: 'Amatic SC', cursive;
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+
+.navegar {
+  font-size: 30px;
+}
+
+.quadrado {
+  width:70%;
+  position: fixed;
+  top: 150px;
+  right: 195px;
+  background-color: rgba(170, 255, 222, .95);
+  box-shadow: 2px 10px 10px rgba(0,0,0, .25);
+  padding-top: 0.5em;
+  text-align: center;
+}
+
+.quadrado ul {
+  margin-left: -50px;
+}
+
+.quadrado li {
+  display: inline-block;
+  list-style: none;
+  margin-left: 10px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+
+.quadrado a {
+  text-decoration: none;
+  text-shadow: 1px 1px black;
+}
+
+a {
+  color: gray;
+}
+
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
